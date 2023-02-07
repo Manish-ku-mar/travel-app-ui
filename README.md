@@ -6,6 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+simulation of the app
+
+
+
+https://user-images.githubusercontent.com/92529138/217211788-faad2fa5-3e17-4444-8f54-4dad71e4c9f5.mp4
+
 
 
 
